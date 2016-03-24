@@ -1,0 +1,250 @@
+<!doctype html>
+<!-- HTML5 Boilerplate -->
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+                    <meta charset="utf-8">
+            <title>Energy Impact, Casestudy - Apps | Etch</title>
+
+            <!-- How viewports work: http://t.co/dKP3o1e -->
+            <meta name="HandheldFriendly" content="True">
+            <meta name="MobileOptimized" content="320">
+            <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
+
+            <!-- Windows/IE font smoothing -->
+            <meta http-equiv="cleartype" content="on">
+            <!-- Use latest IE randering angine and switch on chrome Frame if available -->
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+            <link rel="stylesheet" type="text/css" href="../css/style-compiled.1394194762.css">
+            <link rel="shortcut icon" href="../img/base/favicon.ico" />
+            <link rel="apple-touch-icon-precomposed" href="../img/base/apple-touch-icon-57x57-precomposed.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../img/base/apple-touch-icon-72x72-precomposed.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../img/base/apple-touch-icon-114x114-precomposed.png" />
+            <!-- Ability Sniffing -->
+            <script src="../js/libs/modernizr.custom.1389634669.js"></script>
+
+            <!--[if (IE 7)]>
+                <link rel="stylesheet" href="/css/fallback/icons-ie7.1389634668.css">
+            <![endif]-->
+
+            </head>
+
+    <body >
+
+        <nav role="navigation">
+
+                        <ul id="navmenu">
+                                <li><a href="../index.html" class="nav-home"><i class="menu-icon icon-etch"></i></a></li>
+                <li><a href="../index.html#studio" ><i class="menu-icon icon-studio"></i><span>Studio</span></a></li>
+                <li><a href="../index.html#team" ><i class="menu-icon icon-team"></i><span>Team</span></a></li>
+                <li><a href="../index.html#projects" class="current"><i class="menu-icon icon-work"></i><span>Projects</span></a></li>
+                <li><a href="../index.html#ethos" data-filter=".ethos"><i class="menu-icon icon-ethos"></i><span>Ethos</span></a></li>
+                                            </ul>
+
+            <a href="energyimpact#contact" id="nav-contact"><i class="menu-icon icon-contact"></i><span>Contact</span></a>
+
+            
+        </nav>
+
+        <section role="main">
+                <div class="case-study">
+        <header class="hero-banner"  style="background-image: url('../img/work/energy-impact/energy-impact-header-background.jpg')">
+            <div class="summary-wrap">
+                <h1><b>Energy Impact</b></h1>
+                <h2 class="text-hl">UI Design</h2>
+
+                <p class="summary">Fully immersive energy saving system that helps users to track and reduce their energy bills.</p>
+            </div>
+            <img src="../img/work/energy-impact/energy-impact-header-foreground.png" alt="Energy Impact" />
+        </header>
+
+        <article role="article">
+                                                <div class="fake-block-wrap">
+    <div class="block image image-only" style="background-image: url('../img/work/energy-impact/energy-impact-elements-collage-background.jpg')">
+                <img src="../img/work/energy-impact/energy-impact-elements-collage-foreground.png" alt="" />
+    </div>
+</div>                                                <div class="fake-block-wrap">
+    <div class="block image-text gallery text-right">
+        <div class="text-wrap">
+            <div class="text-only">
+                                    <h4>Process</h4>
+
+                    <p><em>Wireframing</em> and <em>prototyping</em> allows us to fully visualise and experience the users journey, to ensure that all interactions are <em>effortless</em></p>
+                            </div>
+        </div>
+        <div class="image-wrap image-gallery js-gallery">
+            <ul class="image-gallery-nav">
+                                    <li><a class="js-gallery-tab" href="../img/work/energy-impact/energy-impact-02.gif">Show image</a></li>
+                                    <li><a class="js-gallery-tab" href="../img/work/energy-impact/energy-impact-03.gif">Show image</a></li>
+                                    <li><a class="js-gallery-tab" href="../img/work/energy-impact/energy-impact-04.gif">Show image</a></li>
+                            </ul>
+                            <div class="image js-zoom js-gallery-image" data-highres="/img/work/energy-impact/energy-impact-02.gif">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/energy-impact/energy-impact-02.gif" alt="img/work/energy-impact/energy-impact-02.gif" />
+                    <noscript><img src="../img/work/energy-impact/energy-impact-02.gif" alt="" /></noscript>
+                </div>
+                            <div class="image js-zoom js-gallery-image" data-highres="/img/work/energy-impact/energy-impact-03.gif">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/energy-impact/energy-impact-03.gif" alt="img/work/energy-impact/energy-impact-03.gif" />
+                    <noscript><img src="../img/work/energy-impact/energy-impact-03.gif" alt="" /></noscript>
+                </div>
+                            <div class="image js-zoom js-gallery-image" data-highres="/img/work/energy-impact/energy-impact-04.gif">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/energy-impact/energy-impact-04.gif" alt="img/work/energy-impact/energy-impact-04.gif" />
+                    <noscript><img src="../img/work/energy-impact/energy-impact-04.gif" alt="" /></noscript>
+                </div>
+                    </div>
+    </div>
+</div>                                                <div class="fake-block-wrap">
+    <div class="block image-text text-left js-fill-her-up-tank">
+        <div class="text-wrap">
+            <div class="text-only">
+                                    <h4>Delightful Data</h4>
+
+                    <p>Widgets allow users to <em>easily track</em> and set goals against <em>multiple types</em> of energy consumption.</p>
+                            </div>
+        </div>
+        <div class="image-wrap">
+            <div class="image js-fill-her-up-fuel" style="background-image: url('../img/work/energy-impact/energy-impact-element1-background.jpg')">
+                                    <img class="flush-right" src="../img/work/energy-impact/energy-impact-element1-foreground.png" alt="" />
+                            </div>
+        </div>
+    </div>
+</div>                                                <div class="fake-block-wrap">
+    <div class="block image-text text-right js-fill-her-up-tank">
+        <div class="text-wrap">
+            <div class="text-only">
+                                    <h4>Badges</h4>
+
+                    <p>We combined shields with the Smart Energy Icons to create a simple <em>colour-coded system</em> for determining energy reduction.</p>
+                            </div>
+        </div>
+        <div class="image-wrap">
+            <div class="image js-fill-her-up-fuel" style="background-image: url('../img/work/energy-impact/energy-impact-element2-background.jpg')">
+                                    <img class="flush-right flush-left flush-bottom flush-top" src="../img/work/energy-impact/energy-impact-element2-foreground.png" alt="" />
+                            </div>
+        </div>
+    </div>
+</div>                                                <div class="fake-block-wrap">
+    <div class="block quote">
+        <div class="quote-image">
+            <img class="resize" src="../img/base/spacer.png" rel="/img/team/chris.jpg" alt="" />
+            <noscript><img src="../img/team/chris.jpg" alt="" /></noscript>
+        </div>
+        <blockquote><p>The concept revolves around people's ability to create custom dashboards allowing them to focus on only the information relevant to them. Simple interactions like drag and drop translate well across the wide range of devices and inputs.</p></blockquote>
+        <cite><span class="cite-name">Chris Annetts</span> <span class="cite-role">Designer/Project Lead</span></cite>
+    </div>
+</div>                    </article>
+    </div>
+        </section>
+
+        <nav class="subnav">
+                <ul>
+                    <li class="current">
+                <a href="../projects/energyimpact">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/energy-impact/energy-impact-thumb.jpg" alt="Energy Impact" />
+                    <noscript><img src="../img/work/energy-impact/energy-impact-thumb.jpg" alt="Energy Impact" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="../projects/phosho">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/phosho/phosho-thumb.jpg" alt="PhoSho" />
+                    <noscript><img src="../img/work/phosho/phosho-thumb.jpg" alt="PhoSho" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="../projects/asos">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/asos/thumb.jpg" alt="ASOS Fashion Finder" />
+                    <noscript><img src="../img/work/asos/thumb.jpg" alt="ASOS Fashion Finder" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="../projects/confused">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/confused/thumb.jpg" alt="Confused.com" />
+                    <noscript><img src="../img/work/confused/thumb.jpg" alt="Confused.com" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="../projects/joint-angel">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/ja/thumb.jpg" alt="Joint Angel" />
+                    <noscript><img src="../img/work/ja/thumb.jpg" alt="Joint Angel" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="../projects/knowsis">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/knowsis/thumb.jpg" alt="Knowsis" />
+                    <noscript><img src="../img/work/knowsis/thumb.jpg" alt="Knowsis" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="../projects/tight-tippers">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/tt/thumb.jpg" alt="Tight Tippers" />
+                    <noscript><img src="../img/work/tt/thumb.jpg" alt="Tight Tippers" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="../projects/ifaux">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/ifaux/thumb.jpg" alt="iFaux 5" />
+                    <noscript><img src="../img/work/ifaux/thumb.jpg" alt="iFaux 5" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="../projects/steve-jobs-would-never">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/sjwn/thumb.jpg" alt="Steve Jobs never..." />
+                    <noscript><img src="../img/work/sjwn/thumb.jpg" alt="Steve Jobs never..." /></noscript>
+                </a>
+            </li>
+            </ul>
+        </nav>
+
+        <footer role="contentinfo">
+
+            <div id="contact" itemscope itemtype="http://schema.org/Organization">
+
+                <div class="inner">
+
+                    <h4><a itemprop="name" href="../index.html">Etch</a></h4>
+
+                    <p><i class="icon icon-mail"></i><a itemprop="email" href="mailto:info@etchapps.com">info@etchapps.com</a></p>
+
+                    <p><i class="icon icon-phone"></i><span itemprop="telephone">+44 1227 780726</span></p>
+
+                    <p><i class="icon icon-twitter"></i><a href="https://twitter.com/intent/user?screen_name=etch" target="_blank">@etch</a></p>
+
+                    <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                        <i class="icon icon-directions"></i>
+                        <span itemprop="streetAddress">14 St John's Lane</span>,
+                        <span itemprop="addressLocality">Canterbury</span>,
+                        <span itemprop="addressRegion">Kent</span>,
+                        <span itemprop="postalCode">CT1 2QG</span>,
+                        <abbr itemprop="addressCountry" itemscope itemtype="http://schema.org/Country" title="United Kingdom">UK</abbr>
+                    </p>
+
+                </div>
+
+            </div>
+
+			<p><small>&copy;2014 Etch</small></p>
+			<p><small>Our website uses delicious cookies to improve your experience. We'll assume you're ok with that.</small></p>
+        </footer>
+
+                    <script src="../js/script-compiled.1394194762.js"></script>
+        
+        <!-- Google Goggles -->
+        <script type="text/javascript">
+
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-36719575-1']);
+              _gaq.push(['_trackPageview']);
+
+              (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
+
+        </script>
+
+    </body>
+</html>
+

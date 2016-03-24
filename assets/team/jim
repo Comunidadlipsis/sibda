@@ -1,0 +1,237 @@
+<!doctype html>
+<!-- HTML5 Boilerplate -->
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+                    <meta charset="utf-8">
+            <title>Jim Ramsden, Creative Director | Etch</title>
+
+            <!-- How viewports work: http://t.co/dKP3o1e -->
+            <meta name="HandheldFriendly" content="True">
+            <meta name="MobileOptimized" content="320">
+            <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
+
+            <!-- Windows/IE font smoothing -->
+            <meta http-equiv="cleartype" content="on">
+            <!-- Use latest IE randering angine and switch on chrome Frame if available -->
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+            <link rel="stylesheet" type="text/css" href="../css/style-compiled.1394194762.css">
+            <link rel="shortcut icon" href="../img/base/favicon.ico" />
+            <link rel="apple-touch-icon-precomposed" href="../img/base/apple-touch-icon-57x57-precomposed.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../img/base/apple-touch-icon-72x72-precomposed.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../img/base/apple-touch-icon-114x114-precomposed.png" />
+            <!-- Ability Sniffing -->
+            <script src="../js/libs/modernizr.custom.1389634669.js"></script>
+
+            <!--[if (IE 7)]>
+                <link rel="stylesheet" href="/css/fallback/icons-ie7.1389634668.css">
+            <![endif]-->
+
+            </head>
+
+    <body >
+
+        <nav role="navigation">
+
+                        <ul id="navmenu">
+                                <li><a href="../index.html" class="nav-home"><i class="menu-icon icon-etch"></i></a></li>
+                <li><a href="../index.html#studio" ><i class="menu-icon icon-studio"></i><span>Studio</span></a></li>
+                <li><a href="../index.html#team" class="current"><i class="menu-icon icon-team"></i><span>Team</span></a></li>
+                <li><a href="../index.html#projects" ><i class="menu-icon icon-work"></i><span>Projects</span></a></li>
+                <li><a href="../index.html#ethos" data-filter=".ethos"><i class="menu-icon icon-ethos"></i><span>Ethos</span></a></li>
+                                            </ul>
+
+            <a href="jim#contact" id="nav-contact"><i class="menu-icon icon-contact"></i><span>Contact</span></a>
+
+            
+        </nav>
+
+        <section role="main">
+            
+	<header class="hero-banner">
+		<img class="resize" src="../img/base/spacer-hero.png" rel="/img/team/banners/jim-banner.jpg" alt="Jim" />
+        <noscript><img src="../img/team/banners/jim-banner.jpg" alt="Jim" /></noscript>
+        <hgroup>
+            <h1>Jim Ramsden</h1>
+            <h2 class="text-hl">Creative Director</h2>
+        </hgroup>
+	</header>
+
+	<div class="grid-wrap">
+
+		                        <div class="block-wrap small-screen-double-wide" data-rowspan="1" data-colspan="1">
+                <div class="block list-block">
+                                            <ul>
+            <li><a href="http://twitter.com/ramsden" target="_blank"><i class="icon icon-twitter"></i>@ramsden</a></li>
+            <li><a href="http://uk.linkedin.com/in/jimram" target="_blank"><i class="icon icon-linkedin"></i>LinkedIn</a></li>
+            <li><a href="http://jimramsden.com" target="_blank"><i class="icon icon-feather"></i>My Blog</a></li>
+            <li><a href="http://instagram.com/jimram" target="_blank"><i class="icon icon-instagram"></i>Instagram</a></li>
+    </ul>                                    </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="2" data-colspan="2">
+                <div class="block text-only">
+                                            <p>Technology excites me, it's always ploughing forwards. I stay focused on the horizon, in anticipation of what's coming up next.</p>
+                                    </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block image">
+                                            <figure class="with-hidden-caption">
+    <img class="resize" src="../img/base/spacer.png" rel="/img/team/profiles/jim/forest.jpg" alt="Forest of Dean, a place I visit a lot." />
+    <noscript><img src="../img/team/profiles/jim/forest.jpg" alt="Forest of Dean, a place I visit a lot." /></noscript>
+    <figcaption><p>Forest of Dean, a place I visit a lot.</p></figcaption>
+</figure>                                     </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block image">
+                                            <figure class="with-hidden-caption">
+    <img class="resize" src="../img/base/spacer.png" rel="/img/team/profiles/jim/tee.jpg" alt="The last thing I bought was this geeky t-shirt. It&#039;s the Pathfinder palette from Ai." />
+    <noscript><img src="../img/team/profiles/jim/tee.jpg" alt="The last thing I bought was this geeky t-shirt. It&#039;s the Pathfinder palette from Ai." /></noscript>
+    <figcaption><p>The last thing I bought was this geeky t-shirt. It&#039;s the Pathfinder palette from Ai.</p></figcaption>
+</figure>                                     </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block image">
+                                            <figure class="with-hidden-caption">
+    <img class="resize" src="../img/base/spacer.png" rel="/img/team/profiles/jim/book.jpg" alt="Currently reading this book by Elliot Jay Stocks." />
+    <noscript><img src="../img/team/profiles/jim/book.jpg" alt="Currently reading this book by Elliot Jay Stocks." /></noscript>
+    <figcaption><p>Currently reading this book by Elliot Jay Stocks.</p></figcaption>
+</figure>                                     </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block quote">
+                                            <blockquote><p>The design is done when the problem goes away.</p></blockquote>
+<cite>Jason Fried, 37signals</cite>                                    </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block image">
+                                            <figure class="with-hidden-caption">
+    <img class="resize" src="../img/base/spacer.png" rel="/img/team/profiles/jim/antlers.jpg" alt="Antlers" />
+    <noscript><img src="../img/team/profiles/jim/antlers.jpg" alt="Antlers" /></noscript>
+    <figcaption><p>I&#039;m saving my pocket money to buy these.</p></figcaption>
+</figure>                                     </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block video-block">
+                                            <figure>
+    <div class="video-wrapper"><iframe width="290" height="163" src="http://www.youtube.com/embed/XCKElj_Yrac?wmode=opaque" frameborder="0" allowfullscreen></iframe></div>
+    <figcaption><p>To relax, I ride my bike really fast, down hills.</p></figcaption>
+</figure>                                    </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block quote">
+                                            <blockquote><p>At time of change, the learners are the ones who will inherit the world, while the knowers will be beautifully prepared for a world which no longer exists.</p></blockquote>
+<cite>Alistair Smith</cite>                                    </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block image">
+                                            <figure class="with-hidden-caption">
+    <img class="resize" src="../img/base/spacer.png" rel="/img/team/profiles/jim/bike.jpg" alt="My trusty steed." />
+    <noscript><img src="../img/team/profiles/jim/bike.jpg" alt="My trusty steed." /></noscript>
+    <figcaption><p>My trusty steed.</p></figcaption>
+</figure>                                     </div>
+            </div>
+        
+	</div>
+        </section>
+
+        <nav class="subnav">
+                <ul>
+                    <li class="current">
+                <a href="jim">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/team/jim.jpg" alt="Jim" />
+                    <noscript><img src="../img/team/jim.jpg" alt="Jim" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="kevin">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/team/kev.jpg" alt="Kevin" />
+                    <noscript><img src="../img/team/kev.jpg" alt="Kevin" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="anna">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/team/anna.jpg" alt="Anna" />
+                    <noscript><img src="../img/team/anna.jpg" alt="Anna" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="gavyn">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/team/gav.jpg" alt="Gavyn" />
+                    <noscript><img src="../img/team/gav.jpg" alt="Gavyn" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="dan">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/team/dan.jpg" alt="Dan" />
+                    <noscript><img src="../img/team/dan.jpg" alt="Dan" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="chris">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/team/chris.jpg" alt="Chris" />
+                    <noscript><img src="../img/team/chris.jpg" alt="Chris" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="josh">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/team/josh.jpg" alt="Josh" />
+                    <noscript><img src="../img/team/josh.jpg" alt="Josh" /></noscript>
+                </a>
+            </li>
+            </ul>
+        </nav>
+
+        <footer role="contentinfo">
+
+            <div id="contact" itemscope itemtype="http://schema.org/Organization">
+
+                <div class="inner">
+
+                    <h4><a itemprop="name" href="../index.html">Etch</a></h4>
+
+                    <p><i class="icon icon-mail"></i><a itemprop="email" href="mailto:info@etchapps.com">info@etchapps.com</a></p>
+
+                    <p><i class="icon icon-phone"></i><span itemprop="telephone">+44 1227 780726</span></p>
+
+                    <p><i class="icon icon-twitter"></i><a href="https://twitter.com/intent/user?screen_name=etch" target="_blank">@etch</a></p>
+
+                    <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                        <i class="icon icon-directions"></i>
+                        <span itemprop="streetAddress">14 St John's Lane</span>,
+                        <span itemprop="addressLocality">Canterbury</span>,
+                        <span itemprop="addressRegion">Kent</span>,
+                        <span itemprop="postalCode">CT1 2QG</span>,
+                        <abbr itemprop="addressCountry" itemscope itemtype="http://schema.org/Country" title="United Kingdom">UK</abbr>
+                    </p>
+
+                </div>
+
+            </div>
+
+			<p><small>&copy;2014 Etch</small></p>
+			<p><small>Our website uses delicious cookies to improve your experience. We'll assume you're ok with that.</small></p>
+        </footer>
+
+                    <script src="../js/script-compiled.1394194762.js"></script>
+        
+        <!-- Google Goggles -->
+        <script type="text/javascript">
+
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-36719575-1']);
+              _gaq.push(['_trackPageview']);
+
+              (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
+
+        </script>
+
+    </body>
+</html>
+

@@ -1,0 +1,12 @@
+ErrorDocument 404 /index.php
+
+DirectoryIndex index.php
+
+<IfModule rewrite>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L,QSA]
+</IfModule>
+

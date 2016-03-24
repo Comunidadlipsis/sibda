@@ -1,0 +1,210 @@
+<!doctype html>
+<!-- HTML5 Boilerplate -->
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+                    <meta charset="utf-8">
+            <title>Joint Angel, Casestudy - Apps | Etch</title>
+
+            <!-- How viewports work: http://t.co/dKP3o1e -->
+            <meta name="HandheldFriendly" content="True">
+            <meta name="MobileOptimized" content="320">
+            <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
+
+            <!-- Windows/IE font smoothing -->
+            <meta http-equiv="cleartype" content="on">
+            <!-- Use latest IE randering angine and switch on chrome Frame if available -->
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+            <link rel="stylesheet" type="text/css" href="../css/style-compiled.1394194762.css">
+            <link rel="shortcut icon" href="../img/base/favicon.ico" />
+            <link rel="apple-touch-icon-precomposed" href="../img/base/apple-touch-icon-57x57-precomposed.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../img/base/apple-touch-icon-72x72-precomposed.png" />
+            <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../img/base/apple-touch-icon-114x114-precomposed.png" />
+            <!-- Ability Sniffing -->
+            <script src="../js/libs/modernizr.custom.1389634669.js"></script>
+
+            <!--[if (IE 7)]>
+                <link rel="stylesheet" href="/css/fallback/icons-ie7.1389634668.css">
+            <![endif]-->
+
+            </head>
+
+    <body >
+
+        <nav role="navigation">
+
+                        <ul id="navmenu">
+                                <li><a href="../index.html" class="nav-home"><i class="menu-icon icon-etch"></i></a></li>
+                <li><a href="../index.html#studio" ><i class="menu-icon icon-studio"></i><span>Studio</span></a></li>
+                <li><a href="../index.html#team" ><i class="menu-icon icon-team"></i><span>Team</span></a></li>
+                <li><a href="../index.html#projects" class="current"><i class="menu-icon icon-work"></i><span>Projects</span></a></li>
+                <li><a href="../index.html#ethos" data-filter=".ethos"><i class="menu-icon icon-ethos"></i><span>Ethos</span></a></li>
+                                            </ul>
+
+            <a href="joint-angel#contact" id="nav-contact"><i class="menu-icon icon-contact"></i><span>Contact</span></a>
+
+            
+        </nav>
+
+        <section role="main">
+                <header class="hero-banner">
+        <img class="resize" src="../img/base/spacer-hero.png" rel="/img/work/ja/banner.jpg" alt="Joint Angel" />
+        <noscript><img src="../img/work/ja/banner.jpg" alt="Joint Angel" /></noscript>
+        <hgroup>
+            <h1><b>Joint Angel</b></h1>
+            <h2 class="text-hl">Web App</h2>
+        </hgroup>
+    </header>
+
+    <article role="article" class="grid-wrap">
+                                <div class="block-wrap" data-rowspan="2" data-colspan="2">
+                <div class="block text-only">
+                    <p>A self-assessment tool to track recovery from joint surgery. We were involved from ideation through to <em>design and development</em> of the entire product.</p>
+                </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block image">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/ja/1.png" alt="Screenshot of Joint Angel" />
+<noscript><img src="../img/work/ja/1.png" alt="Screenshot of Joint Angel" /></noscript>                </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block image">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/ja/2.png" alt="Screenshot of Joint Angel" />
+<noscript><img src="../img/work/ja/2.png" alt="Screenshot of Joint Angel" /></noscript>                </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="2" data-colspan="2">
+                <div class="block image">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/ja/3.png" alt="Screenshot of Joint Angel" />
+<noscript><img src="../img/work/ja/3.png" alt="Screenshot of Joint Angel" /></noscript>                </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block image">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/ja/4.png" alt="Screenshot of Joint Angel" />
+<noscript><img src="../img/work/ja/4.png" alt="Screenshot of Joint Angel" /></noscript>                </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="1">
+                <div class="block image">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/ja/5.png" alt="Screenshot of Joint Angel" />
+<noscript><img src="../img/work/ja/5.png" alt="Screenshot of Joint Angel" /></noscript>                </div>
+            </div>
+                                <div class="block-wrap" data-rowspan="1" data-colspan="2">
+                <div class="block quote">
+                    <blockquote><p>In conjunction with Imperial College London, Joint Angel is a new venture which provides a place for patients to monitor and track their joint recovery. We were involved from ideation through to brand and ultimately full build. Following consultation with users, the decision was made to optimise the app for tablet use and scale up to desktop.</p></blockquote>
+<cite><a href="http://etchapps.com/team/andy">Andy Shield</a> - Managing Director</cite>                </div>
+            </div>
+            </article>
+        </section>
+
+        <nav class="subnav">
+                <ul>
+                    <li>
+                <a href="energyimpact">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/energy-impact/energy-impact-thumb.jpg" alt="Energy Impact" />
+                    <noscript><img src="../img/work/energy-impact/energy-impact-thumb.jpg" alt="Energy Impact" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="phosho">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/phosho/phosho-thumb.jpg" alt="PhoSho" />
+                    <noscript><img src="../img/work/phosho/phosho-thumb.jpg" alt="PhoSho" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="asos">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/asos/thumb.jpg" alt="ASOS Fashion Finder" />
+                    <noscript><img src="../img/work/asos/thumb.jpg" alt="ASOS Fashion Finder" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="confused">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/confused/thumb.jpg" alt="Confused.com" />
+                    <noscript><img src="../img/work/confused/thumb.jpg" alt="Confused.com" /></noscript>
+                </a>
+            </li>
+                    <li class="current">
+                <a href="joint-angel">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/ja/thumb.jpg" alt="Joint Angel" />
+                    <noscript><img src="../img/work/ja/thumb.jpg" alt="Joint Angel" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="knowsis">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/knowsis/thumb.jpg" alt="Knowsis" />
+                    <noscript><img src="../img/work/knowsis/thumb.jpg" alt="Knowsis" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="tight-tippers">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/tt/thumb.jpg" alt="Tight Tippers" />
+                    <noscript><img src="../img/work/tt/thumb.jpg" alt="Tight Tippers" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="ifaux">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/ifaux/thumb.jpg" alt="iFaux 5" />
+                    <noscript><img src="../img/work/ifaux/thumb.jpg" alt="iFaux 5" /></noscript>
+                </a>
+            </li>
+                    <li>
+                <a href="steve-jobs-would-never">
+                    <img class="resize" src="../img/base/spacer.png" rel="/img/work/sjwn/thumb.jpg" alt="Steve Jobs never..." />
+                    <noscript><img src="../img/work/sjwn/thumb.jpg" alt="Steve Jobs never..." /></noscript>
+                </a>
+            </li>
+            </ul>
+        </nav>
+
+        <footer role="contentinfo">
+
+            <div id="contact" itemscope itemtype="http://schema.org/Organization">
+
+                <div class="inner">
+
+                    <h4><a itemprop="name" href="../index.html">Etch</a></h4>
+
+                    <p><i class="icon icon-mail"></i><a itemprop="email" href="mailto:info@etchapps.com">info@etchapps.com</a></p>
+
+                    <p><i class="icon icon-phone"></i><span itemprop="telephone">+44 1227 780726</span></p>
+
+                    <p><i class="icon icon-twitter"></i><a href="https://twitter.com/intent/user?screen_name=etch" target="_blank">@etch</a></p>
+
+                    <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                        <i class="icon icon-directions"></i>
+                        <span itemprop="streetAddress">14 St John's Lane</span>,
+                        <span itemprop="addressLocality">Canterbury</span>,
+                        <span itemprop="addressRegion">Kent</span>,
+                        <span itemprop="postalCode">CT1 2QG</span>,
+                        <abbr itemprop="addressCountry" itemscope itemtype="http://schema.org/Country" title="United Kingdom">UK</abbr>
+                    </p>
+
+                </div>
+
+            </div>
+
+			<p><small>&copy;2014 Etch</small></p>
+			<p><small>Our website uses delicious cookies to improve your experience. We'll assume you're ok with that.</small></p>
+        </footer>
+
+                    <script src="../js/script-compiled.1394194762.js"></script>
+        
+        <!-- Google Goggles -->
+        <script type="text/javascript">
+
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-36719575-1']);
+              _gaq.push(['_trackPageview']);
+
+              (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
+
+        </script>
+
+    </body>
+</html>
+
